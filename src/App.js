@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Gosh! I aint changing shit! and i did!
+          I was changed on the terminal
         </p>
         <a
           className="App-link"
